@@ -1,2 +1,3 @@
 git init
 git master 1
+git master 2
